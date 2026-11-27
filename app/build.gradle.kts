@@ -1,5 +1,5 @@
 pugins {
-	id ("com.anddroid.application") version "9.4.0"
+	id ("com.android.application") version "9.4.0"
 }
 
 android {
